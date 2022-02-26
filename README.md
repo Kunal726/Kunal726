@@ -2,6 +2,10 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Computer Engineering
 
+## My Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/{Kunal726}/count.svg)
+
 ## 📊 My Github Stats
 
 
